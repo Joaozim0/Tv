@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1, Jovem Pan News 
-http://ns506448.ip-192-99-148.net:8080/live/Tais/Mauricio/2.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1677904348/ei/fHUCZL-yIqaU1sQPnJ6xqAc/ip/45.239.74.187/id/fJL0rkHT65w.1/source/yt_live_broadcast/requiressl/yes/tx/24451289/txs/24451286%2C24451287%2C24451288%2C24451289/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ7evg1DJuFE16-AZL-Iu3eQot_aGBlgRTfTX4fdHyylAiAzK2DqGVsb9hbhCT-cEOd2qHl-snX17myU27nI-0uLkA%3D%3D/file/index.m3u8
